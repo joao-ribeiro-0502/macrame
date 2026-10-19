@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Protótipo demonstrativo (dados fictícios). Nenhuma integração real está ativa.
